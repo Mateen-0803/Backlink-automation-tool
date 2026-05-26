@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Backlink Automation Tool  (Python)
+Backlink Automation Tool (Python)
 ==================================
 Automates uploading PDFs/articles to UGC & document-sharing sites
 with optional AI enrichment via Ollama (local LLM).
